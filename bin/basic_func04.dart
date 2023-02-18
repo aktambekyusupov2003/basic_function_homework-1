@@ -1,7 +1,9 @@
 // Create a function called func.
 // Return the value integer type.
 String func() {
-  return '';
+  return 'a';
 }
 
-void main() {}
+void main() {
+  print(4);
+}
