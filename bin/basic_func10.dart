@@ -3,6 +3,8 @@
 //  Create function arguments a.
 
 //  Return the negative value of a.
-int func() {}
+int func() {
+  
+}
 
 void main() {}

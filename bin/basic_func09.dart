@@ -4,7 +4,10 @@
 
 //  decrease the value of a to one and return
 
-int func() {
-  return 
+int func(int a) {
+  return a - 1;
 }
-void main() {}
+
+void main() {
+  print(func(22));
+}
